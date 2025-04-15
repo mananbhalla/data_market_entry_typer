@@ -1,7 +1,7 @@
 
 # data_market_entry_typer
-# data_market_entry_typera1 = "123456789DCSNMCDMBFM"
-a = "true"
+data_market_entry_typera1 = "123456789DCSNMCDMBFM"
+a = "false"
 print(a)
 
 if a == "true":
